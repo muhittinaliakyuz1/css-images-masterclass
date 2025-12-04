@@ -19,7 +19,7 @@ html {
     /* Katman 2 (Alt): Manzara Resmi */
     background-image:
         linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(resimnnnm.webp);
+        url(unnamed.jpg);
     /* Resmi ortala ve boşluk kalmayacak şekilde yay */
     background-size: cover;
     background-position: center;
@@ -32,7 +32,7 @@ h1 {
     margin: 0;
     text-transform: uppercase;
     letter-spacing: 2px;
-    background-image: url(arkabg.webp);
+    background-image: url(unnamed\ \(4\).jpg);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-size: cover;
